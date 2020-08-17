@@ -1,4 +1,4 @@
-# Password Generator v0.1
+# Password Generator v0.1 [![HitCount](http://hits.dwyl.com/gfigliuolo97/Password-Generator.svg)](http://hits.dwyl.com/gfigliuolo97/Password-Generator)
 
 This software is meant to generate secure passwords.
 
